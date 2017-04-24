@@ -21,7 +21,7 @@ OAUTH_TOKEN_SECRET = 'LJqpZ1qD7mC55GgyDC9aLsNT7xUBfCc109GXNQpyiKLUg'
 
 t = Twython(APP_KEY, APP_SECRET, OAUTH_TOKEN, OAUTH_TOKEN_SECRET)
 
-POST_MESSAGES = ["Caught ya!", "Stay out my drawer Humberto", "Humberto wouldn't approve","Big brother's always watching"]
+POST_MESSAGES = ["Caught ya!", "Stay out my drawer Humberto", "Humberto wouldn't approve","Big brother's always watching","I'm missing an eye, but I see you better than you see yourself sometimes", "I'm gonna tell your mommy", "Thou shalt not steal - Exodus 20:15", "He who is a partner with a thief, hates his own life. He hears the oath but tells nothing - Proverbs 29:23", "Sometimes its not worth it...", "If you have to lie, cheat, steal, you're just not doing it right - Donald J. Trump", "If you forgive the fox for stealing your chickens, he will take your sheep", "Cheaters never win", "Don't - Bryson Tiller", "Fool me once, shame on you, fool me twice, not gonna happen", "I don't think so...", "Who you are ya trying to fool son!!!!", "Holden Claufield thinks you're a phony", "Derick doesn't like people stealing his snacks", "Pichy doesn't like thieves!"]
 
 print ("Distance measurement in progress")
 
